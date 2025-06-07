@@ -82,6 +82,7 @@ To predict the likelihood that a customer will subscribe to a term deposit after
 
 - Feature importance was analyzed.
 - Gradient Boosting and Random Forest gave high performance.
+- Chose Gradient Boosting for prediction.
 - Model tuning was done using hyperparameter optimization.
 
 ---
